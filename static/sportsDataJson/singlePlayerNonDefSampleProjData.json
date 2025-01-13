@@ -1,0 +1,423 @@
+{
+    "longName": "Bo Nix",
+    "teamID": "10",
+    "team": "DEN",
+    "pos": "QB",
+    "playerID": "4426338",
+    "projections": [
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "15.4",
+                "carries": "3.7",
+                "rushTD": "0.1"
+            },
+            "Passing": {
+                "passAttempts": "30.9",
+                "passTD": "1.2",
+                "passYds": "194",
+                "int": "0.8",
+                "passCompletions": "18.1"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_1"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "16.9",
+                "carries": "4.2",
+                "rushTD": "0.1"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.2",
+                "passYds": "203",
+                "int": "0.8",
+                "passCompletions": "18.9"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.3",
+            "week": "Week_2"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "17.0",
+                "carries": "4.2",
+                "rushTD": "0.1"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.1",
+                "passYds": "197",
+                "int": "0.8",
+                "passCompletions": "19.0"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_3"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "16.5",
+                "carries": "4.2",
+                "rushTD": "0.1"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.1",
+                "passYds": "191",
+                "int": "0.7",
+                "passCompletions": "18.5"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_4"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "17.8",
+                "carries": "4.2",
+                "rushTD": "0.1"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "0.8",
+                "passYds": "180",
+                "int": "0.8",
+                "passCompletions": "19.8"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_5"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "16.9",
+                "carries": "4.2",
+                "rushTD": "0.1"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.1",
+                "passYds": "196",
+                "int": "0.8",
+                "passCompletions": "18.9"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_6"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "18.5",
+                "carries": "4.2",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.2",
+                "passYds": "201",
+                "int": "0.8",
+                "passCompletions": "19.4"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_7"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "22.8",
+                "carries": "4.5",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "34.9",
+                "passTD": "1.4",
+                "passYds": "246",
+                "int": "1.0",
+                "passCompletions": "23.9"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_8"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "18.7",
+                "carries": "4.2",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.2",
+                "passYds": "203",
+                "int": "0.8",
+                "passCompletions": "19.6"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_9"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "26",
+                "carries": "4.2",
+                "rushTD": "0.3"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.2",
+                "passYds": "199",
+                "int": "0.8",
+                "passCompletions": "19.2"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.3",
+            "week": "Week_10"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "21.2",
+                "carries": "4.5",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "34.4",
+                "passTD": "1.3",
+                "passYds": "226",
+                "int": "0.9",
+                "passCompletions": "21.8"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_11"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "25.0",
+                "carries": "5.4",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "34.2",
+                "passTD": "1.4",
+                "passYds": "225",
+                "int": "0.9",
+                "passCompletions": "21.7"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_12"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "23.5",
+                "carries": "5",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "34.6",
+                "passTD": "1.3",
+                "passYds": "237",
+                "int": "0.9",
+                "passCompletions": "22.1"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_13"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "20.1",
+                "carries": "4.2",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.4",
+                "passYds": "218",
+                "int": "0.8",
+                "passCompletions": "21.1"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_15"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "19.9",
+                "carries": "4.4",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "33.9",
+                "passTD": "1.2",
+                "passYds": "213",
+                "int": "0.8",
+                "passCompletions": "20.6"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_16"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "21.3",
+                "carries": "4.4",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "33.8",
+                "passTD": "1.3",
+                "passYds": "228",
+                "int": "0.9",
+                "passCompletions": "22.0"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_17"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "18.9",
+                "carries": "4.2",
+                "rushTD": "0.2"
+            },
+            "Passing": {
+                "passAttempts": "32.7",
+                "passTD": "1.2",
+                "passYds": "205",
+                "int": "0.8",
+                "passCompletions": "19.8"
+            },
+            "Receiving": {
+                "receptions": "0",
+                "recTD": "0",
+                "targets": "0",
+                "recYds": "0"
+            },
+            "fumblesLost": "0.2",
+            "week": "Week_18"
+        },
+        {
+            "twoPointConversion": "0",
+            "Rushing": {
+                "rushYds": "391",
+                "carries": "86.4",
+                "rushTD": "4.3"
+            },
+            "Passing": {
+                "passAttempts": "572",
+                "passTD": "24.5",
+                "passYds": "3660",
+                "int": "12.6",
+                "passCompletions": "367"
+            },
+            "Receiving": {
+                "receptions": "1",
+                "recTD": "1",
+                "targets": "1",
+                "recYds": "2"
+            },
+            "fumblesLost": "0.4",
+            "week": "season"
+        }
+    ]
+}
